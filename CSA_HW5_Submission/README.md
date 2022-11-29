@@ -15,17 +15,17 @@ Visualization and results:
 ![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/running.png)
 #### Add visualization for training (15 points)
 Intersection:
-![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_intersection_dqn_rollout.png)
-![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_intersection_dqn_fps%20and%20train.png)
+![1](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_intersection_dqn_rollout.png)
+![1](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_intersection_dqn_fps%20and%20train.png)
 Merge:
-![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_Merge_dqn_rollout.png)
-![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_Merge_dqn_fps%20and%20train.png)
+![2](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_Merge_dqn_rollout.png)
+![2](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_Merge_dqn_fps%20and%20train.png)
 Roundabout:
-![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_Roundabout_dqn_rollout.png)
-![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_Roundabout_dqn_fps%20and%20train.png)
+![3](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_Roundabout_dqn_rollout.png)
+![3](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_Roundabout_dqn_fps%20and%20train.png)
 Highway+Cnn:
-![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_highway_dqn_cnn_rollout%20and%20fps.png)
-![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_highway_dqn_cnn_train.png)
+![4](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_highway_dqn_cnn_rollout%20and%20fps.png)
+![4](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_highway_dqn_cnn_train.png)
 #### Add visualization for testing (15 points)
 
 #### Add your own comments in your selected baseline code as possible (25 points)
