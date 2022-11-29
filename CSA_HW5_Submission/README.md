@@ -1,9 +1,15 @@
 # Homework 5 RL                                                                                              
-# Student Name: Jialun Yang
+## Student Name: Jialun Yang
 ***
-## Fork/Clone the baseline framework all code to your own git (5 points)
+### Fork/Clone the baseline framework all code to your own git (5 points)
 
-### 三级标题
-#### 四级标题
-##### 五级标题
-###### 六级标题
+### Hands-on the ‘SB3’s DQN‘ example of ‘Training an agent’ (20 points)
+
+### Select one of the driving policies (DQN or others) baseline code:
+#### Get it running, trained and testing (20 points)
+
+#### Add visualization for training (15 points)
+
+#### Add visualization for testing (15 points)
+
+#### Add your own comments in your selected baseline code as possible (25 points)
