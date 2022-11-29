@@ -29,10 +29,13 @@ Highway+Cnn:
 #### Add visualization for testing (15 points)
 Intersection:
 ![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_intersection_dqn.gif)
+
 Merge:
 ![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_merge_dqn.gif)
+
 Roundabout:
 ![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_roundabout_dqn.gif)
+
 Highway+CNN:
 ![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_highway_dqn_cnn.gif)
 #### Add your own comments in your selected baseline code as possible (25 points)
