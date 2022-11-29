@@ -18,11 +18,11 @@ Intersection:
 ![1](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_intersection_dqn_rollout.png)
 ![1](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_intersection_dqn_fps%20and%20train.png)
 Merge:
-![2](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_Merge_dqn_rollout.png)
-![2](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_Merge_dqn_fps%20and%20train.png)
+![2](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_merge_dqn_rollout.png)
+![2](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_merge_dqn_fps%20and%20train.png)
 Roundabout:
-![3](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_Roundabout_dqn_rollout.png)
-![3](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_Roundabout_dqn_fps%20and%20train.png)
+![3](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_roundabout_dqn_rollout.png)
+![3](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_roundabout_dqn_fps%20and%20train.png)
 Highway+Cnn:
 ![4](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_highway_dqn_cnn_rollout%20and%20fps.png)
 ![4](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_highway_dqn_cnn_train.png)
