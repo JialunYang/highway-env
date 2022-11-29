@@ -10,9 +10,9 @@ Visualization and results:
 ![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_highway_dqn_fps%20and%20train.png)
 ![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_highway_dqn.gif)
 ***
-### Select one of the driving policies (DQN or others) baseline code:
+### Select one of the driving policies (DQN or others) baseline code and :
 #### Get it running, trained and testing (20 points)
-
+![]
 #### Add visualization for training (15 points)
 
 #### Add visualization for testing (15 points)
