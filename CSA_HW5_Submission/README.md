@@ -3,8 +3,10 @@
 ***
 ### Fork/Clone the baseline framework all code to your own git (5 points)
 
+***
 ### Hands-on the ‘SB3’s DQN‘ example of ‘Training an agent’ (20 points)
 
+***
 ### Select one of the driving policies (DQN or others) baseline code:
 #### Get it running, trained and testing (20 points)
 
