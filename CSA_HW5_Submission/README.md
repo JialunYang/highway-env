@@ -40,3 +40,4 @@ Highway+CNN:
 ![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/sb3_highway_dqn_cnn.gif)
 #### Add your own comments in your selected baseline code as possible (25 points)
 Screenshot(can also be seen in sb3_highway_dqn_cnn.py):
+![](https://github.com/JialunYang/highway-env/blob/master/CSA_HW5_Submission/comment.png)
